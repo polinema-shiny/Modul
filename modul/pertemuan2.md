@@ -19,3 +19,4 @@ public class Persegipanjang {
     public int lebar;
 }
 ```
+3.	Pada fungsi main yaitu pada class ArrayObjects, buatlah array PersegiPanjang yang berisi 3 elemen: 
